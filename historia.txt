@@ -2,3 +2,4 @@ Esta es la primera linea de este archivo. Voy a agregar el nombre, edad, ciudad,
 Mi nombre es Jhosimar Xavier Tintaya Cortez.
 Y tengo 24 anios, naci el 22 de noviembre de 1997.
 Actualmente estoy viviendo en La Paz-Bolivia con mis hermanos y mis abuelos.
+Mi numero de celular es 990602403 que es un numero peruano, igual tengo otro numero Boliviano que es 78892771.
