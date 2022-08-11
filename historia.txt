@@ -1,3 +1,4 @@
 Esta es la primera linea de este archivo. Voy a agregar el nombre, edad, ciudad, numero, ocupacion y metas en las siguientes lineas.
 Mi nombre es Jhosimar Xavier Tintaya Cortez.
 Y tengo 24 anios, naci el 22 de noviembre de 1997.
+Actualmente estoy viviendo en La Paz-Bolivia con mis hermanos y mis abuelos.
