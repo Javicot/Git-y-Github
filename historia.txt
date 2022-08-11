@@ -1,1 +1,2 @@
 Esta es la primera linea de este archivo. Voy a agregar el nombre, edad, ciudad, numero, ocupacion y metas en las siguientes lineas.
+Mi nombre es Jhosimar Xavier Tintaya Cortez.
