@@ -5,12 +5,11 @@
 }
 html {
   font-size: 62.5%;
-  font-family: cursive;
+  font-family: "Courier New", Courier, monospace;
 }
 body {
   font-size: 16px;
   background-color: rgb(153, 241, 172);
-  text
 }
 .container {
   margin-top: 6rem;
@@ -29,4 +28,7 @@ body {
 .container__parrafo {
   text-align: center;
   color: blueviolet;
+}
+#parra {
+  color: rgb(20, 77, 77);
 }
