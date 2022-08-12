@@ -5,8 +5,23 @@
 }
 html {
   font-size: 62.5%;
+  font-family: cursive;
 }
 body {
   font-size: 16px;
-  background-color: rgb(14, 154, 44);
+  background-color: rgb(153, 241, 172);
+}
+.container {
+  margin-top: 6rem;
+  border: 2px solid rgb(218, 179, 135);
+  background-color: beige;
+}
+.container__titulo {
+  text-align: center;
+  text-decoration-line: underline;
+  color: red;
+}
+.container__parrafo {
+  text-align: center;
+  color: blueviolet;
 }
