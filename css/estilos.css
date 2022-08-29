@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+  font-family: "Courier New", Courier, monospace;
+}
+body {
+  font-size: 16px;
+  background-color: rgb(153, 241, 172);
+}
+.container {
+  margin-top: 6rem;
+  border: 2px solid rgb(218, 179, 135);
+  background-color: beige;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container__titulo {
+  text-align: center;
+  text-decoration-line: underline;
+  color: red;
+  font-size: 1.4rem;
+}
+.container__parrafo {
+  text-align: center;
+  color: blueviolet;
+}
+#parra {
+  color: rgb(20, 77, 77);
+}
+#development {
+  color: coral;
+}
