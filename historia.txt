@@ -11,3 +11,4 @@ Mi ocupacion por ahora es estudiar para acceder a mejores ofertas laborales y em
 - Volvimos a la rama master pero no se si lo hicimos bien xD el siguiente paso es hacer el merge.
 Regeresamos al archivo pero creo que es mejor probar todo esto con archivos html y css. Veamos.
 Borramos la branch cabecera. No se que problemas nos traera.
+ahora elimine la branch master XD
