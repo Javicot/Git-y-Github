@@ -8,3 +8,4 @@ Mi ocupacion por ahora es estudiar para acceder a mejores ofertas laborales y em
 - Ahora hicimos un branch cabecera y vamos a modificar esta linea recien creada.
 - Volvimos a la rama master. Supuestamente la linea de arriba se tiene que borrar pero no. Que raro.
 - Segunda modificacion en la branch cabecera. El siguiente paso es hacer merge. Veamos.
+Branch cabecera y hare un merge con la rama main.
